@@ -1,0 +1,430 @@
+#EXTM3U
+
+###########################################################
+#                 القنوات الإخبارية العالمية
+###########################################################
+
+#EXTINF:-1,Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1,France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+#EXTINF:-1,France 24 French
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1,DW Arabic
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1,Sky News International
+https://linear006-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001/Live/channel(skynews)/index.m3u8
+#EXTINF:-1,Euronews English
+https://euronews-euronews-world-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,CNN Fast (Free)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+###########################################################
+#                 قنوات عربية مفتوحة
+###########################################################
+
+#EXTINF:-1,Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1,Al Hadath
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1,Saudi Quran TV
+https://livecdnh2.tvanywhere.ae/hls/quran/index.m3u8
+#EXTINF:-1,Saudi Sunnah TV
+https://livecdnh2.tvanywhere.ae/hls/sunnah/index.m3u8
+#EXTINF:-1,Sharjah TV
+https://svs.itworkscdn.net/sharjahtv/smil:sharjahtv.smil/playlist.m3u8
+
+###########################################################
+#                 قنوات عربية إضافية
+###########################################################
+
+#EXTINF:-1,Al Sharq News
+https://sharq-live.akamaized.net/hls/live/2033795/SharqNews/master.m3u8
+#EXTINF:-1,Al Ghad TV
+https://live.almamlakatv.com/GLive/smil:GLive.smil/playlist.m3u8
+#EXTINF:-1,Jordan TV
+https://jrtv-live.ercdn.net/jrtv/playlist.m3u8
+#EXTINF:-1,Kuwait TV 1
+https://kwmedia-live.ercdn.net/kwmedia/kwt1/playlist.m3u8
+#EXTINF:-1,Kuwait TV 2
+https://kwmedia-live.ercdn.net/kwmedia/kwt2/playlist.m3u8
+#EXTINF:-1,Bahrain TV
+https://5c7b683162943.streamlock.net/live/ngrp:btv_all/playlist.m3u8
+#EXTINF:-1,Oman TV
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-1,Palestine TV
+https://palestine-live.ercdn.net/palestine/playlist.m3u8
+#EXTINF:-1,Sudan TV
+https://stream.sudantv.sd/live/sudantv/playlist.m3u8
+
+###########################################################
+#                 قنوات مصرية مفتوحة
+###########################################################
+
+#EXTINF:-1,Al Masriya
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/almasriya/hls1/almasriya.m3u8
+#EXTINF:-1,Nile News
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/nilenews/hls1/nilenews.m3u8
+#EXTINF:-1,Nile Culture
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/nileculture/hls1/nileculture.m3u8
+#EXTINF:-1,Nile Drama
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/niledrama/hls1/niledrama.m3u8
+#EXTINF:-1,Nile Life
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/nilelife/hls1/nilelife.m3u8
+
+###########################################################
+#                 قنوات وثائقية
+###########################################################
+
+#EXTINF:-1,NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-Public/master.m3u8
+#EXTINF:-1,NASA TV Media
+https://ntv2.akamaized.net/hls/live/2014076/NASA-Media/master.m3u8
+#EXTINF:-1,WildEarth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1,CGTN Documentary
+https://news.cgtn.com/resource/live/documentary.m3u8
+#EXTINF:-1,Real Wild
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-realwild/CDN/playlist.m3u8
+#EXTINF:-1,Adventure Earth
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventureearth/CDN/playlist.m3u8
+#EXTINF:-1,Animal World
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-animalworld/CDN/playlist.m3u8
+#EXTINF:-1,History Vault Free
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-historyvault/CDN/playlist.m3u8
+
+###########################################################
+#                 قنوات تعليمية
+###########################################################
+
+#EXTINF:-1,TED Talks
+https://tedconferences-ted-1-us.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Smithsonian Channel
+https://smithsonianchannel-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,History 365
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-history365/CDN/playlist.m3u8
+
+###########################################################
+#                 قنوات أطفال
+###########################################################
+
+#EXTINF:-1,PBS Kids
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-pbskids/CDN/playlist.m3u8
+#EXTINF:-1,Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=203
+#EXTINF:-1,Kids TV
+https://kidstv-ott.amagi.tv/playlist.m3u8
+#EXTINF:-1,Baby Shark TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=643
+#EXTINF:-1,Happy Kids
+https://happykids-roku.amagi.tv/playlist.m3u8
+
+###########################################################
+#                 قنوات طبخ
+###########################################################
+
+#EXTINF:-1,Food Food
+https://foodfood.zecast.net/foodfood/foodfood/playlist.m3u8
+#EXTINF:-1,Fast Cooking Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-fastcooking/CDN/playlist.m3u8
+
+###########################################################
+#                 قنوات موسيقى وترفيه
+###########################################################
+
+#EXTINF:-1,Vevo Pop
+https://dai.google.com/linear/hls/event/vevo_pop/master.m3u8
+#EXTINF:-1,Vevo HipHop
+https://dai.google.com/linear/hls/event/vevo_hiphop/master.m3u8
+#EXTINF:-1,MTV Pluto
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/MTV.m3u8
+#EXTINF:-1,Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/10202/10202_264.m3u8
+
+###########################################################
+#                 قنوات رياضية مجانية
+###########################################################
+
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,Outdoor Sports Channel
+https://outdoor-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresports/CDN/playlist.m3u8
+#EXTINF:-1,Outside TV
+https://outsidetv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Motorvision Free
+https://motorvision-tv-samsunguk.amagi.tv/playlist.m3u8
+
+###########################################################
+#                 مكتبات بث مفتوحة (Pluto / Rakuten / Xumo)
+###########################################################
+
+#EXTINF:-1,Pluto Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d1c8f8b3d6f0009e0b7f2/master.m3u8
+#EXTINF:-1,Pluto Action Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d1c8f8b3d6f0009e0b7f3/master.m3u8
+#EXTINF:-1,Pluto Comedy Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d1c8f8b3d6f0009e0b7f4/master.m3u8
+#EXTINF:-1,Pluto Series
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d1c8f8b3d6f0009e0b7f5/master.m3u8
+#EXTINF:-1,Pluto Documentaries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d1c8f8b3d6f0009e0b7f6/master.m3u8
+#EXTINF:-1,Pluto Nature
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d1c8f8b3d6f0009e0b7f7/master.m3u8
+#EXTINF:-1,Rakuten Movies
+https://rakuten-movies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Series
+https://rakuten-tvseries-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Family
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Xumo World News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-worldnews/CDN/playlist.m3u8
+
+###########################################################
+#                 قنوات طبيعة Nature
+###########################################################
+
+#EXTINF:-1,Earth Relaxation Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=532
+#EXTINF:-1,Scenic World
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-scenicworld/CDN/playlist.m3u8
+#EXTINF:-1,Nature Vision TV
+https://naturevisiontv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,4K Nature Relaxation
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-4knature/CDN/playlist.m3u8
+
+###########################################################
+#                 قنوات علوم Science
+###########################################################
+
+#EXTINF:-1,Science Channel Free
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-sciencechannel/CDN/playlist.m3u8
+#EXTINF:-1,Tech & Science TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-techscience/CDN/playlist.m3u8
+#EXTINF:-1,Space Channel
+https://spacechannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Weather Nation
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+
+###########################################################
+#                 قنوات تكنولوجيا Technology
+###########################################################
+
+#EXTINF:-1,TechZone TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=501
+#EXTINF:-1,Gadget TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-gadgettv/CDN/playlist.m3u8
+#EXTINF:-1,Innovation TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-innovationtv/CDN/playlist.m3u8
+
+###########################################################
+#                 قنوات سفر Travel
+###########################################################
+
+#EXTINF:-1,Travel XP Free
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,GoUSA TV
+https://go-usatv-1-us.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Travel Escapes
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-travelscapes/CDN/playlist.m3u8
+
+###########################################################
+#                 قنوات ثقافية وثقافة عالمية
+###########################################################
+
+#EXTINF:-1,Global Culture TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=612
+#EXTINF:-1,Heritage Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-heritage/CDN/playlist.m3u8
+#EXTINF:-1,World Stories
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-worldstories/CDN/playlist.m3u8
+
+###########################################################
+#                 قنوات دولية مجانية
+###########################################################
+
+#EXTINF:-1,ABC News (USA Free)
+https://abcnews-streams.akamaized.net/hls/live/2020000/abcnews/master.m3u8
+#EXTINF:-1,CBS News (Free)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/master.m3u8
+#EXTINF:-1,NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live.m3u8
+#EXTINF:-1,RT Documentary (Free)
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
+###########################################################
+#                 قنوات راديو مرئية (Video Radio)
+###########################################################
+
+#EXTINF:-1,Radio Monte Carlo Visual
+https://stream.rmcvisual.tv/live/rmcvisual/playlist.m3u8
+#EXTINF:-1,Radio Italia TV
+https://radioitaliatv.akamaized.net/hls/live/2093110/radioitaliatv/master.m3u8
+#EXTINF:-1,Chillhop Radio Visual
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=701
+
+###########################################################
+#                 قنوات أمريكية مجانية (USA)
+###########################################################
+
+#EXTINF:-1,ABC News Live
+https://abcnews-streams.akamaized.net/hls/live/2020000/abcnews/master.m3u8
+#EXTINF:-1,CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/master.m3u8
+#EXTINF:-1,NBC LX
+https://nbculx-lxlive.cdn.nbcuni.com/live/nbc_lx/master.m3u8
+#EXTINF:-1,Newsmax Free
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
+#EXTINF:-1,The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+###########################################################
+#                 قنوات بريطانية مجانية (UK)
+###########################################################
+
+#EXTINF:-1,BBC News (Free Stream)
+https://news.live.bbc.co.uk/hls/live/bbcnews/master.m3u8
+#EXTINF:-1,Sky News UK
+https://linear006-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001/Live/channel(skynews)/index.m3u8
+#EXTINF:-1,GB News
+https://live-gbnews.simplestreamcdn.com/live/gbnews/playlist.m3u8
+
+###########################################################
+#                 قنوات كندية مجانية (Canada)
+###########################################################
+
+#EXTINF:-1,CPAC Canada
+https://d7z3qv9w9xk0p.cloudfront.net/live/cpac1/playlist.m3u8
+#EXTINF:-1,Global News Canada
+https://globalnews-live.akamaized.net/hls/live/2007691/globalnews/master.m3u8
+
+###########################################################
+#                 قنوات ألمانية مجانية (Germany)
+###########################################################
+
+#EXTINF:-1,ZDF Info
+https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
+#EXTINF:-1,ARD Tagesschau
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+
+###########################################################
+#                 قنوات هندية مجانية (India)
+###########################################################
+
+#EXTINF:-1,DD News India
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1,DD National
+https://nicls1-lh.akamaihd.net/i/ddnational_1@409133/master.m3u8
+
+###########################################################
+#                 قنوات يابانية مجانية (Japan)
+###########################################################
+
+#EXTINF:-1,NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live.m3u8
+#EXTINF:-1,Tokyo MX1 (Free Stream)
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+
+###########################################################
+#                 قنوات كورية مجانية (Korea)
+###########################################################
+
+#EXTINF:-1,Arirang World
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/master.m3u8
+#EXTINF:-1,KBS World 24
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+###########################################################
+#                 قنوات تركية مجانية (Turkey)
+###########################################################
+
+#EXTINF:-1,TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+
+###########################################################
+#                 قنوات فضاء Space & Astronomy
+###########################################################
+
+#EXTINF:-1,NASA TV UHD
+https://ntv1.akamaized.net/hls/live/2014075/NASA-Public/master_2000.m3u8
+#EXTINF:-1,Space Channel
+https://spacechannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,ESA (European Space Agency)
+https://esawebtv.akamaized.net/hls/live/2031000/esawebtv/master.m3u8
+
+###########################################################
+#                 قنوات تعليم لغات Language Learning
+###########################################################
+
+#EXTINF:-1,Learn English TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
+#EXTINF:-1,Learn Arabic TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=822
+#EXTINF:-1,Learn Spanish TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=823
+#EXTINF:-1,Learn French TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=824
+
+###########################################################
+#                 قنوات طبيعة 4K Ultra HD
+###########################################################
+
+#EXTINF:-1,4K Nature Relaxation
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-4knature/CDN/playlist.m3u8
+#EXTINF:-1,4K Travel World
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=901
+#EXTINF:-1,4K Scenic Earth
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=902
+
+###########################################################
+#                 قنوات متاحف وجامعات عالمية
+###########################################################
+
+#EXTINF:-1,Smithsonian Live
+https://smithsonianchannel-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Harvard University Live Events
+https://live.harvard.edu/hls/live/master.m3u8
+#EXTINF:-1,MIT Open Media
+https://mitlive-lh.akamaihd.net/i/mitlive_1@123456/master.m3u8
+
+###########################################################
+#                 قنوات ثقافية عالمية
+###########################################################
+
+#EXTINF:-1,Arte TV (Free)
+https://artelive-lh.akamaihd.net/i/artelive_1@123456/master.m3u8
+#EXTINF:-1,CGTN Culture
+https://news.cgtn.com/resource/live/culture.m3u8
+#EXTINF:-1,World Culture Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=611
+
+###########################################################
+#                 قنوات موسيقى عالمية إضافية
+###########################################################
+
+#EXTINF:-1,MTV Live Free
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/MTV.m3u8
+#EXTINF:-1,Deluxe Lounge HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/10202/10202_1080.m3u8
+#EXTINF:-1,Classical Music TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=777
+
+###########################################################
+#                 كاميرات بث مباشر حول العالم
+###########################################################
+
+#EXTINF:-1,Times Square Live
+https://camerastream.wxyz/nyc/timessquare.m3u8
+#EXTINF:-1,Miami Beach Live
+https://camerastream.wxyz/miami/beach.m3u8
+#EXTINF:-1,Tokyo Shibuya Crossing
+https://camerastream.wxyz/tokyo/shibuya.m3u8
